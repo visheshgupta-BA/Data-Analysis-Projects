@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# <p align = 'center'>Simple Data Analysis Projects</p>
 
 
 ### This repository contains data analysis projects that I use for practice. These projects are intended to help me improve my skills in data analysis, data visualization, and statistical modeling.
