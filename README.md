@@ -12,10 +12,13 @@ The following is a list of projects included in this repository:
 <B>Project 2: Exploring the Bitcoin Cryptocurrency Market </B>
 <br>
 <br>
-<B>Project 3: Analyzing NYC Public School Test Result Scores </B>
+<B>Project 3: Investigating Netflix Movies and Guest Stars in The Office </B>
 <br>
 <br>
-<B>Project 4: Analyzing TV Data </B>
+<B>Project 4: Analyzing NYC Public School Test Result Scores </B>
+<br>
+<br>
+<B>Project 5: Analyzing TV Data </B>
 
 
 Tools and Technologies
