@@ -19,6 +19,9 @@ The following is a list of projects included in this repository:
 <br>
 <br>
 <B>Project 5: Analyzing TV Data </B>
+<br>
+<br>
+<B>Project 6: Predicting Credit_Card Approvals</B>
 
 
 Tools and Technologies
